@@ -39,7 +39,7 @@ URI
 
 ---
 
-### Atualizar Produto (POST)
+### Atualizar Produto (PUT)
 URI  
 `localhost:8080/api/produtos/{id}` 
 
